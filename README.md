@@ -1,29 +1,22 @@
----
-title: City Design
-description: A description of your portfolio or the purpose of your site.
-theme: jekyll-theme-cayman
----
+# city design
+## 📘 Portfolio
 
-# City Design
-
-## Portfolio  
-### COURSE: DAA  
-### COURSE CODE: 24ECSC205  
-### COURSE INSTRUCTOR: Prof. Prakash Hegade  
-### UNIVERSITY: KLE Technological University  
-### TOPIC: City Design  
+### **Course:** Design & Analysis of Algorithms (DAA)  
+### **Course Code:** 24ECSC205  
+### **Instructor:** Prof. Prakash Hegade  
+### **University:** KLE Technological University  
+### **Topic:** City Design  
 
 ---
 
-## TEAM INFORMATION
+## 👥 Team Information
 
-| NAME        | USN            |
-|-------------|----------------|
-| Sushant     | 01fe24bcs293   |
-| Sunil       | 01fe24bcs296   |
-| Vijayalaxmi | 01fe24bcs292   |
-| Vaishnavi   | 01fe24bcs295   |
+| **Name**      | **USN**         |
+|---------------|------------------|
+| Sushant       | 01FE24BCS293     |
+| Sunil         | 01FE24BCS296     |
+| Vijayalaxmi   | 01FE24BCS292     |
+| Vaishnavi     | 01FE24BCS295     |
 
 ---
 
-**PortfolioTeam09** is maintained by **Sushant-Bilage**.
